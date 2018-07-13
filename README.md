@@ -1,1 +1,1 @@
-"# Smple"
+"# Sample"
